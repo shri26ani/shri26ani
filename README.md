@@ -1,4 +1,5 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlinedegrees.sandiego.edu%2Fmasters-artificial-intelligence-vs-data-science%2F&psig=AOvVaw1iQ84eI4Rfjh8z9QX2_IAC&ust=1711465311273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCtxaHXj4UDFQAAAAAdAAAAABAE)
+![logo](![image](https://github.com/shri26ani/shri26ani/assets/147137857/3602f794-32da-446f-96db-6ddf80d7c366)
+)
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aniket Shrivastava</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
