@@ -1,9 +1,8 @@
-![logo](![image](https://github.com/shri26ani/shri26ani/assets/147137857/3602f794-32da-446f-96db-6ddf80d7c366)
-)
+![logo](https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/11/masters-in-ai-vs-ds.jpg)
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aniket Shrivastava</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw2uQ6oForf5xr6RV3XqQkUe&ust=1711464701213000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC70YTVj4UDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 📫 How to reach me **shri26ani@gmail.com**
 
